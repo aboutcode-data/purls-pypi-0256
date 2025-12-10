@@ -1,0 +1,15 @@
+- pkg:pypi/chardet@1.0
+- pkg:pypi/chardet@1.0.1
+- pkg:pypi/chardet@1.1
+- pkg:pypi/chardet@2.1.1
+- pkg:pypi/chardet@2.2.1
+- pkg:pypi/chardet@2.3.0
+- pkg:pypi/chardet@3.0.0
+- pkg:pypi/chardet@3.0.1
+- pkg:pypi/chardet@3.0.2
+- pkg:pypi/chardet@3.0.3
+- pkg:pypi/chardet@3.0.4
+- pkg:pypi/chardet@4.0.0
+- pkg:pypi/chardet@5.0.0
+- pkg:pypi/chardet@5.1.0
+- pkg:pypi/chardet@5.2.0
