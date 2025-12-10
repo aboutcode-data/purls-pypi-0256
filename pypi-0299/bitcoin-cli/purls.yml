@@ -1,0 +1,4 @@
+- pkg:pypi/bitcoin-cli@1.0.0
+- pkg:pypi/bitcoin-cli@1.0.1
+- pkg:pypi/bitcoin-cli@1.0.1.post1
+- pkg:pypi/bitcoin-cli@1.0.1.post2
