@@ -1,0 +1,4 @@
+- pkg:pypi/afl-2-math@1.0
+- pkg:pypi/afl-2-math@2.0
+- pkg:pypi/afl-2-math@3.0
+- pkg:pypi/afl-2-math@4.0
