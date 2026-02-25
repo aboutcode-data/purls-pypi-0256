@@ -24,3 +24,5 @@
 - pkg:pypi/bspy@4.3
 - pkg:pypi/bspy@4.4
 - pkg:pypi/bspy@4.4.1
+- pkg:pypi/bspy@5.0.0
+- pkg:pypi/bspy@5.0.1
