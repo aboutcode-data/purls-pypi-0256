@@ -13,3 +13,5 @@
 - pkg:pypi/chardet@5.0.0
 - pkg:pypi/chardet@5.1.0
 - pkg:pypi/chardet@5.2.0
+- pkg:pypi/chardet@6.0.0
+- pkg:pypi/chardet@6.0.0.post1
