@@ -15,3 +15,7 @@
 - pkg:pypi/aind-data-transfer-service@1.21.0
 - pkg:pypi/aind-data-transfer-service@1.22.0
 - pkg:pypi/aind-data-transfer-service@1.23.0
+- pkg:pypi/aind-data-transfer-service@1.23.1
+- pkg:pypi/aind-data-transfer-service@2.0.0
+- pkg:pypi/aind-data-transfer-service@2.0.1
+- pkg:pypi/aind-data-transfer-service@2.0.2
