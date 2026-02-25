@@ -52,10 +52,17 @@
 - pkg:pypi/boto3-assist@0.32.0
 - pkg:pypi/boto3-assist@0.33.0
 - pkg:pypi/boto3-assist@0.34.0
+- pkg:pypi/boto3-assist@0.35.0
+- pkg:pypi/boto3-assist@0.36.0
+- pkg:pypi/boto3-assist@0.37.0
 - pkg:pypi/boto3-assist@0.4.0
+- pkg:pypi/boto3-assist@0.40.0
+- pkg:pypi/boto3-assist@0.41.0
 - pkg:pypi/boto3-assist@0.5.0
 - pkg:pypi/boto3-assist@0.5.1
 - pkg:pypi/boto3-assist@0.5.2
+- pkg:pypi/boto3-assist@0.50.0
+- pkg:pypi/boto3-assist@0.51.0
 - pkg:pypi/boto3-assist@0.6.0
 - pkg:pypi/boto3-assist@0.6.1
 - pkg:pypi/boto3-assist@0.7.0

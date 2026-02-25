@@ -170,6 +170,7 @@
 - pkg:pypi/borgmatic@2.0.10
 - pkg:pypi/borgmatic@2.0.11
 - pkg:pypi/borgmatic@2.0.12
+- pkg:pypi/borgmatic@2.0.13
 - pkg:pypi/borgmatic@2.0.2
 - pkg:pypi/borgmatic@2.0.3
 - pkg:pypi/borgmatic@2.0.4
@@ -178,3 +179,6 @@
 - pkg:pypi/borgmatic@2.0.7
 - pkg:pypi/borgmatic@2.0.8
 - pkg:pypi/borgmatic@2.0.9
+- pkg:pypi/borgmatic@2.1.0
+- pkg:pypi/borgmatic@2.1.1
+- pkg:pypi/borgmatic@2.1.2
