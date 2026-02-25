@@ -26,6 +26,7 @@
 - pkg:pypi/atlantiscore@10.2.2
 - pkg:pypi/atlantiscore@11.0.0
 - pkg:pypi/atlantiscore@12.0.0
+- pkg:pypi/atlantiscore@12.1.1
 - pkg:pypi/atlantiscore@2.0.0
 - pkg:pypi/atlantiscore@2.1.0
 - pkg:pypi/atlantiscore@2.2.0
