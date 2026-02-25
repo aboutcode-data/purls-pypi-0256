@@ -77,3 +77,7 @@
 - pkg:pypi/apache-airflow-providers-mongo@5.2.3rc1
 - pkg:pypi/apache-airflow-providers-mongo@5.3.0
 - pkg:pypi/apache-airflow-providers-mongo@5.3.0rc1
+- pkg:pypi/apache-airflow-providers-mongo@5.3.1
+- pkg:pypi/apache-airflow-providers-mongo@5.3.1rc1
+- pkg:pypi/apache-airflow-providers-mongo@5.3.2
+- pkg:pypi/apache-airflow-providers-mongo@5.3.2rc1

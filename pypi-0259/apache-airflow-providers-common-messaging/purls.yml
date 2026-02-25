@@ -17,3 +17,5 @@
 - pkg:pypi/apache-airflow-providers-common-messaging@2.0.0rc1
 - pkg:pypi/apache-airflow-providers-common-messaging@2.0.1
 - pkg:pypi/apache-airflow-providers-common-messaging@2.0.1rc1
+- pkg:pypi/apache-airflow-providers-common-messaging@2.0.2
+- pkg:pypi/apache-airflow-providers-common-messaging@2.0.2rc1
