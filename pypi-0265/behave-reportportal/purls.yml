@@ -14,3 +14,5 @@
 - pkg:pypi/behave-reportportal@5.0.0
 - pkg:pypi/behave-reportportal@5.0.1
 - pkg:pypi/behave-reportportal@5.0.2
+- pkg:pypi/behave-reportportal@5.1.0
+- pkg:pypi/behave-reportportal@5.1.1
