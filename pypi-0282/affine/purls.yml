@@ -16,3 +16,6 @@
 - pkg:pypi/affine@2.4b1
 - pkg:pypi/affine@3.0a1
 - pkg:pypi/affine@3.0b1
+- pkg:pypi/affine@3.0rc1
+- pkg:pypi/affine@3.0rc2
+- pkg:pypi/affine@3.0rc3

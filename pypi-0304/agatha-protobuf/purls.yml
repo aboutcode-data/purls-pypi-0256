@@ -50,7 +50,11 @@
 - pkg:pypi/agatha-protobuf@1.0.56
 - pkg:pypi/agatha-protobuf@1.0.57
 - pkg:pypi/agatha-protobuf@1.0.58
+- pkg:pypi/agatha-protobuf@1.0.59
 - pkg:pypi/agatha-protobuf@1.0.6
+- pkg:pypi/agatha-protobuf@1.0.60
+- pkg:pypi/agatha-protobuf@1.0.61
+- pkg:pypi/agatha-protobuf@1.0.62
 - pkg:pypi/agatha-protobuf@1.0.7
 - pkg:pypi/agatha-protobuf@1.0.8
 - pkg:pypi/agatha-protobuf@1.0.9
