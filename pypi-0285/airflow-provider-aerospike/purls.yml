@@ -1,1 +1,2 @@
 - pkg:pypi/airflow-provider-aerospike@0.0.1
+- pkg:pypi/airflow-provider-aerospike@1.2.0
