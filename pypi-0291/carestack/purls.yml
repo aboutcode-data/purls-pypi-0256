@@ -9,6 +9,11 @@
 - pkg:pypi/carestack@0.1.21
 - pkg:pypi/carestack@0.1.22
 - pkg:pypi/carestack@0.1.22.1
+- pkg:pypi/carestack@0.1.22.10
+- pkg:pypi/carestack@0.1.22.11
+- pkg:pypi/carestack@0.1.22.12
+- pkg:pypi/carestack@0.1.22.13
+- pkg:pypi/carestack@0.1.22.14
 - pkg:pypi/carestack@0.1.22.2
 - pkg:pypi/carestack@0.1.22.3
 - pkg:pypi/carestack@0.1.22.4
