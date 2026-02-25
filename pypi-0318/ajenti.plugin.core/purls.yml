@@ -12,6 +12,7 @@
 - pkg:pypi/ajenti.plugin.core@0.109
 - pkg:pypi/ajenti.plugin.core@0.11
 - pkg:pypi/ajenti.plugin.core@0.110
+- pkg:pypi/ajenti.plugin.core@0.111
 - pkg:pypi/ajenti.plugin.core@0.12
 - pkg:pypi/ajenti.plugin.core@0.13
 - pkg:pypi/ajenti.plugin.core@0.14

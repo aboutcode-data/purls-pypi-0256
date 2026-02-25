@@ -53,6 +53,8 @@
 - pkg:pypi/akida@2.15.0
 - pkg:pypi/akida@2.16.1
 - pkg:pypi/akida@2.17.0
+- pkg:pypi/akida@2.18.2
+- pkg:pypi/akida@2.19.1
 - pkg:pypi/akida@2.2.0
 - pkg:pypi/akida@2.2.1
 - pkg:pypi/akida@2.2.2
