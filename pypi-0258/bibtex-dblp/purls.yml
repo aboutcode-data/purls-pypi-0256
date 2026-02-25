@@ -1,2 +1,4 @@
 - pkg:pypi/bibtex-dblp@0.5
 - pkg:pypi/bibtex-dblp@0.9
+- pkg:pypi/bibtex-dblp@1.0.0
+- pkg:pypi/bibtex-dblp@1.0.1
