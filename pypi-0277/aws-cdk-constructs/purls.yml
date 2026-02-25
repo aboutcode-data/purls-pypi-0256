@@ -175,6 +175,7 @@
 - pkg:pypi/aws-cdk-constructs@2.42.1
 - pkg:pypi/aws-cdk-constructs@2.43.0
 - pkg:pypi/aws-cdk-constructs@2.44.0
+- pkg:pypi/aws-cdk-constructs@2.44.1
 - pkg:pypi/aws-cdk-constructs@2.5.0
 - pkg:pypi/aws-cdk-constructs@2.5.1
 - pkg:pypi/aws-cdk-constructs@2.6.0

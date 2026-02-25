@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework-plugin-result-upload@110.0
 - pkg:pypi/avocado-framework-plugin-result-upload@111.0
 - pkg:pypi/avocado-framework-plugin-result-upload@112.0
+- pkg:pypi/avocado-framework-plugin-result-upload@113.0
 - pkg:pypi/avocado-framework-plugin-result-upload@57.0
 - pkg:pypi/avocado-framework-plugin-result-upload@58.0
 - pkg:pypi/avocado-framework-plugin-result-upload@59.0

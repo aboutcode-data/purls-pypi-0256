@@ -12,6 +12,7 @@
 - pkg:pypi/avanza-api@15.1.1
 - pkg:pypi/avanza-api@15.1.2
 - pkg:pypi/avanza-api@16.0.0
+- pkg:pypi/avanza-api@16.1.0
 - pkg:pypi/avanza-api@2.10.0
 - pkg:pypi/avanza-api@2.2.0
 - pkg:pypi/avanza-api@2.2.1
