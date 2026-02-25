@@ -168,6 +168,7 @@
 - pkg:pypi/bionty@1.1.0
 - pkg:pypi/bionty@1.1.1
 - pkg:pypi/bionty@1.1.2
+- pkg:pypi/bionty@1.10.0
 - pkg:pypi/bionty@1.2.0
 - pkg:pypi/bionty@1.2.1
 - pkg:pypi/bionty@1.2a1
@@ -188,3 +189,11 @@
 - pkg:pypi/bionty@1.8.1
 - pkg:pypi/bionty@1.9.0
 - pkg:pypi/bionty@1.9.1
+- pkg:pypi/bionty@2.0.0
+- pkg:pypi/bionty@2.0a1
+- pkg:pypi/bionty@2.0a2
+- pkg:pypi/bionty@2.0a3
+- pkg:pypi/bionty@2.0a4
+- pkg:pypi/bionty@2.1.0
+- pkg:pypi/bionty@2.2.0
+- pkg:pypi/bionty@2.2.1
