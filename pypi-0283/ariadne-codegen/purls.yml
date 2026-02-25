@@ -11,6 +11,8 @@
 - pkg:pypi/ariadne-codegen@0.15.3
 - pkg:pypi/ariadne-codegen@0.16.0
 - pkg:pypi/ariadne-codegen@0.17.0
+- pkg:pypi/ariadne-codegen@0.17.1
+- pkg:pypi/ariadne-codegen@0.17.2
 - pkg:pypi/ariadne-codegen@0.2.0
 - pkg:pypi/ariadne-codegen@0.2.1
 - pkg:pypi/ariadne-codegen@0.3.0
