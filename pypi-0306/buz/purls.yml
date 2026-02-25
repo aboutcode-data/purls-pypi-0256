@@ -87,6 +87,15 @@
 - pkg:pypi/buz@2.21.0rc1
 - pkg:pypi/buz@2.21.1rc1
 - pkg:pypi/buz@2.21.2rc1
+- pkg:pypi/buz@2.22.0
+- pkg:pypi/buz@2.22.1
+- pkg:pypi/buz@2.23.0
+- pkg:pypi/buz@2.24.0
+- pkg:pypi/buz@2.25.0
+- pkg:pypi/buz@2.26.0
+- pkg:pypi/buz@2.26.1
+- pkg:pypi/buz@2.27.0
+- pkg:pypi/buz@2.27.1
 - pkg:pypi/buz@2.3.0rc1
 - pkg:pypi/buz@2.4.0rc1
 - pkg:pypi/buz@2.5.0rc1
