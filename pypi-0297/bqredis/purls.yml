@@ -4,3 +4,5 @@
 - pkg:pypi/bqredis@0.0.4
 - pkg:pypi/bqredis@0.0.5
 - pkg:pypi/bqredis@0.0.6
+- pkg:pypi/bqredis@0.0.7
+- pkg:pypi/bqredis@0.0.8
