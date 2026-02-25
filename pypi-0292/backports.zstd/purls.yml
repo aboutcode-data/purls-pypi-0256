@@ -6,3 +6,4 @@
 - pkg:pypi/backports.zstd@1.0.0
 - pkg:pypi/backports.zstd@1.1.0
 - pkg:pypi/backports.zstd@1.2.0
+- pkg:pypi/backports.zstd@1.3.0
