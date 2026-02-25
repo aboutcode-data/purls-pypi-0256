@@ -49,4 +49,15 @@
 - pkg:pypi/bk-plugin-framework@2.3.2rc0
 - pkg:pypi/bk-plugin-framework@2.3.2rc2
 - pkg:pypi/bk-plugin-framework@2.3.3
+- pkg:pypi/bk-plugin-framework@2.3.4
+- pkg:pypi/bk-plugin-framework@2.3.4rc0
+- pkg:pypi/bk-plugin-framework@2.3.4rc1
+- pkg:pypi/bk-plugin-framework@2.3.4rc2
+- pkg:pypi/bk-plugin-framework@2.3.4rc3
+- pkg:pypi/bk-plugin-framework@2.3.4rc4
+- pkg:pypi/bk-plugin-framework@2.3.4rc5
+- pkg:pypi/bk-plugin-framework@2.3.4rc6
+- pkg:pypi/bk-plugin-framework@2.3.5
+- pkg:pypi/bk-plugin-framework@2.3.5rc1
+- pkg:pypi/bk-plugin-framework@2.3.6
 - pkg:pypi/bk-plugin-framework@2.4.0rc0
