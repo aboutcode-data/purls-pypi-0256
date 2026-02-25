@@ -56,6 +56,8 @@
 - pkg:pypi/amazon-ad-sdk@0.2.18
 - pkg:pypi/amazon-ad-sdk@0.2.19
 - pkg:pypi/amazon-ad-sdk@0.2.2.post1
+- pkg:pypi/amazon-ad-sdk@0.2.20
+- pkg:pypi/amazon-ad-sdk@0.2.21
 - pkg:pypi/amazon-ad-sdk@0.2.3
 - pkg:pypi/amazon-ad-sdk@0.2.4
 - pkg:pypi/amazon-ad-sdk@0.2.5

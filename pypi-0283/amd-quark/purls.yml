@@ -1,5 +1,7 @@
 - pkg:pypi/amd-quark@0.1.0
 - pkg:pypi/amd-quark@0.10
+- pkg:pypi/amd-quark@0.11
+- pkg:pypi/amd-quark@0.11.1
 - pkg:pypi/amd-quark@0.6.0
 - pkg:pypi/amd-quark@0.7
 - pkg:pypi/amd-quark@0.8
