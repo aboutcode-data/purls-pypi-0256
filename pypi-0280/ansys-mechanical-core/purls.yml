@@ -41,12 +41,16 @@
 - pkg:pypi/ansys-mechanical-core@0.11.34
 - pkg:pypi/ansys-mechanical-core@0.11.35
 - pkg:pypi/ansys-mechanical-core@0.11.36
+- pkg:pypi/ansys-mechanical-core@0.11.38
 - pkg:pypi/ansys-mechanical-core@0.11.4
 - pkg:pypi/ansys-mechanical-core@0.11.5
 - pkg:pypi/ansys-mechanical-core@0.11.6
 - pkg:pypi/ansys-mechanical-core@0.11.7
 - pkg:pypi/ansys-mechanical-core@0.11.8
 - pkg:pypi/ansys-mechanical-core@0.11.9
+- pkg:pypi/ansys-mechanical-core@0.12.0
+- pkg:pypi/ansys-mechanical-core@0.12.1
+- pkg:pypi/ansys-mechanical-core@0.12.2
 - pkg:pypi/ansys-mechanical-core@0.7.0
 - pkg:pypi/ansys-mechanical-core@0.7.1
 - pkg:pypi/ansys-mechanical-core@0.7.2

@@ -52,3 +52,6 @@
 - pkg:pypi/anipy-api@3.6.0
 - pkg:pypi/anipy-api@3.7.0
 - pkg:pypi/anipy-api@3.8.0
+- pkg:pypi/anipy-api@3.8.1
+- pkg:pypi/anipy-api@3.8.2
+- pkg:pypi/anipy-api@3.8.3
