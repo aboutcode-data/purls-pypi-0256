@@ -66,3 +66,4 @@
 - pkg:pypi/cdktf-cdktf-provider-mongodbatlas@8.5.0
 - pkg:pypi/cdktf-cdktf-provider-mongodbatlas@8.6.0
 - pkg:pypi/cdktf-cdktf-provider-mongodbatlas@8.6.1
+- pkg:pypi/cdktf-cdktf-provider-mongodbatlas@8.6.2

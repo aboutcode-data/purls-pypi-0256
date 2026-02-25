@@ -757,6 +757,7 @@
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.14.0
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.15.0
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.15.1
+- pkg:pypi/cdktf-cdktf-provider-datadog@12.15.2
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.2.0
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.3.0
 - pkg:pypi/cdktf-cdktf-provider-datadog@12.4.0
