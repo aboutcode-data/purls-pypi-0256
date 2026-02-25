@@ -1,4 +1,6 @@
 - pkg:pypi/appose@0.1.0
+- pkg:pypi/appose@0.10.0
+- pkg:pypi/appose@0.10.1
 - pkg:pypi/appose@0.2.0
 - pkg:pypi/appose@0.4.0
 - pkg:pypi/appose@0.6.0

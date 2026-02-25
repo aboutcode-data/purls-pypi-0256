@@ -64,3 +64,4 @@
 - pkg:pypi/apprise@1.9.4
 - pkg:pypi/apprise@1.9.5
 - pkg:pypi/apprise@1.9.6
+- pkg:pypi/apprise@1.9.7
