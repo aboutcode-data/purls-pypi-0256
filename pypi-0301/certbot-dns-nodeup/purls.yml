@@ -14,3 +14,5 @@
 - pkg:pypi/certbot-dns-nodeup@1.1.5
 - pkg:pypi/certbot-dns-nodeup@1.1.6
 - pkg:pypi/certbot-dns-nodeup@1.1.7
+- pkg:pypi/certbot-dns-nodeup@1.2.0
+- pkg:pypi/certbot-dns-nodeup@1.2.1
