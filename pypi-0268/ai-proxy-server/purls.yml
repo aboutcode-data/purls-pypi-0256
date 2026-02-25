@@ -11,3 +11,7 @@
 - pkg:pypi/ai-proxy-server@2.0.0
 - pkg:pypi/ai-proxy-server@2.1.0
 - pkg:pypi/ai-proxy-server@2.1.1
+- pkg:pypi/ai-proxy-server@3.0.0
+- pkg:pypi/ai-proxy-server@3.0.0.dev1
+- pkg:pypi/ai-proxy-server@3.0.1
+- pkg:pypi/ai-proxy-server@3.0.2

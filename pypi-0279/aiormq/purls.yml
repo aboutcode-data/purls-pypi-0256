@@ -109,3 +109,4 @@
 - pkg:pypi/aiormq@6.9.0
 - pkg:pypi/aiormq@6.9.1
 - pkg:pypi/aiormq@6.9.2
+- pkg:pypi/aiormq@6.9.3
