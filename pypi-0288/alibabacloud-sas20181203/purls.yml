@@ -159,3 +159,6 @@
 - pkg:pypi/alibabacloud-sas20181203@7.0.5
 - pkg:pypi/alibabacloud-sas20181203@7.1.0
 - pkg:pypi/alibabacloud-sas20181203@7.1.1
+- pkg:pypi/alibabacloud-sas20181203@7.1.2
+- pkg:pypi/alibabacloud-sas20181203@8.0.0
+- pkg:pypi/alibabacloud-sas20181203@8.0.1

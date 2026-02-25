@@ -20,6 +20,11 @@
 - pkg:pypi/alibabacloud-eiam20211201@2.0.1
 - pkg:pypi/alibabacloud-eiam20211201@2.0.2
 - pkg:pypi/alibabacloud-eiam20211201@2.1.0
+- pkg:pypi/alibabacloud-eiam20211201@2.10.0
+- pkg:pypi/alibabacloud-eiam20211201@2.11.0
+- pkg:pypi/alibabacloud-eiam20211201@2.12.0
+- pkg:pypi/alibabacloud-eiam20211201@2.12.1
+- pkg:pypi/alibabacloud-eiam20211201@2.12.2
 - pkg:pypi/alibabacloud-eiam20211201@2.2.0
 - pkg:pypi/alibabacloud-eiam20211201@2.3.0
 - pkg:pypi/alibabacloud-eiam20211201@2.4.0
@@ -27,3 +32,10 @@
 - pkg:pypi/alibabacloud-eiam20211201@2.5.1
 - pkg:pypi/alibabacloud-eiam20211201@2.5.2
 - pkg:pypi/alibabacloud-eiam20211201@2.6.0
+- pkg:pypi/alibabacloud-eiam20211201@2.6.1
+- pkg:pypi/alibabacloud-eiam20211201@2.7.0
+- pkg:pypi/alibabacloud-eiam20211201@2.7.1
+- pkg:pypi/alibabacloud-eiam20211201@2.8.0
+- pkg:pypi/alibabacloud-eiam20211201@2.8.1
+- pkg:pypi/alibabacloud-eiam20211201@2.8.2
+- pkg:pypi/alibabacloud-eiam20211201@2.9.0
