@@ -65,11 +65,14 @@
 - pkg:pypi/autoai-libs@2.0.28
 - pkg:pypi/autoai-libs@2.0.29
 - pkg:pypi/autoai-libs@2.0.3
+- pkg:pypi/autoai-libs@2.0.30
 - pkg:pypi/autoai-libs@2.0.6
 - pkg:pypi/autoai-libs@2.0.8
 - pkg:pypi/autoai-libs@2.0.9
 - pkg:pypi/autoai-libs@3.0.1
+- pkg:pypi/autoai-libs@3.0.10
 - pkg:pypi/autoai-libs@3.0.3
 - pkg:pypi/autoai-libs@3.0.5
 - pkg:pypi/autoai-libs@3.0.6
 - pkg:pypi/autoai-libs@3.0.7
+- pkg:pypi/autoai-libs@3.0.8
