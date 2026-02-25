@@ -8,3 +8,6 @@
 - pkg:pypi/aidge-core@0.6.2
 - pkg:pypi/aidge-core@0.7.0
 - pkg:pypi/aidge-core@0.8.1
+- pkg:pypi/aidge-core@0.9.0
+- pkg:pypi/aidge-core@0.9.0.post2
+- pkg:pypi/aidge-core@0.9.0.post3
