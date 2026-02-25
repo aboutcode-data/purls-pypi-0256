@@ -9,3 +9,5 @@
 - pkg:pypi/ataraxis-time@3.0.0
 - pkg:pypi/ataraxis-time@4.0.0
 - pkg:pypi/ataraxis-time@5.0.0
+- pkg:pypi/ataraxis-time@6.0.0
+- pkg:pypi/ataraxis-time@6.0.1
